@@ -5,7 +5,7 @@ from imblearn.utils.estimator_checks import check_classifiers_with_encoded_label
 
 GAME_WIDTH = 700
 GAME_HEIGHT = 700
-SPEED = 50
+SPEED = 100
 SPACE_SIZE = 50
 BODY_PARTS = 3
 SNAKE_COLOR = "#00FF00"
